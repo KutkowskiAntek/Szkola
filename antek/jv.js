@@ -10,7 +10,7 @@
 // = przypisanie
 // == równość 
 //=== identyczność
-let firstname = prompt("Podaj imie", "");
-let lastname = prompt("Podaj nazwisko", "");
-alert("Witaj " + firstname +" "+ lastname)
+// let firstname = prompt("Podaj imie", "");
+// let lastname = prompt("Podaj nazwisko", "");
+// alert("Witaj " + firstname +" "+ lastname)
 
